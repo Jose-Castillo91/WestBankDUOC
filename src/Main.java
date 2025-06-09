@@ -88,7 +88,7 @@ public class Main {
         }
     }
     public static void verDatosCliente() {
-        System.out.print("Ingrese el RUT del cliente que desea consultar (Con putos y guión): ");
+        System.out.print("Ingrese el RUT del cliente que desea consultar (Con puntos y guión): ");
         String rutBuscado = scanner.nextLine();
 
         boolean encontrado = false;
